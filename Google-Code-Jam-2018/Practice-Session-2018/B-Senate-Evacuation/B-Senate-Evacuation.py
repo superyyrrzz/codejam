@@ -1,5 +1,5 @@
 # Problem B: Senate Evacuation
-# URL: https://codejam.withgoogle.com/2018/challenges/0000000000000130/dashboard/00000000000004c0
+# URL: https://codingcompetitions.withgoogle.com/codejam/round/0000000000000130/00000000000004c0
 
 
 def evacuate(n, ps):
