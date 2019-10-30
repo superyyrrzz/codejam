@@ -1,5 +1,5 @@
 # Problem C: Steed 2: Cruise Control
-# URL: https://codejam.withgoogle.com/2018/challenges/0000000000000130/dashboard/0000000000000524
+# URL: https://codingcompetitions.withgoogle.com/codejam/round/0000000000000130/0000000000000524
 
 
 def ChooseSpeed(d, n, k, s):
